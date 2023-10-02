@@ -1,4 +1,4 @@
-*HR Analytics Dashboard 📉📊*
+## HR Analytics Dashboard 📉📊
 -----
 
 **Project Description:**
