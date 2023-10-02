@@ -1,7 +1,6 @@
-## HR Analytics Dashboard 📉📊
------
+## HR Analytics Dashboard 📉
 
-**Project Description:**
+### **Project Description:**
 This repository contains the source code and data for an HR Analytics Dashboard developed using Power BI, Power Query, and DAX. The dashboard provides a comprehensive analysis of employee attendance patterns, work-from-home trends, and leave utilization based on three months of real-world data. By employing advanced analytics techniques, the dashboard offers valuable insights to support evidence-based HR strategies and decision-making processes.
 
 ### Key Features
